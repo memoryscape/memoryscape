@@ -1,3 +1,7 @@
+# Overview
+
+Prototyping a progressive web app as a future step for the project.
+
 # Github page as a PWA template
 
 This is a bare-bones example on how to turn an `index.html` document on GitHub and hosted as a GitHub Page into an installable Progressive Web App with offline caching.
